@@ -53,6 +53,7 @@ python run_interview.py
 ---
 
 📁 프로젝트 구조
+```bash
 ai-interview-simulator/
 ├── run_interview.py         # 전체 시뮬레이션 실행 파일
 ├── question_generator.py    # 질문 생성 체인
@@ -64,6 +65,7 @@ ai-interview-simulator/
 ├── .env                     # API 키 (업로드 금지)
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
