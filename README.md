@@ -30,9 +30,10 @@ pip install -r requirements.txt
 
 🔐 환경변수 (.env 파일)
 루트 디렉토리에 .env 파일을 만들고 다음 내용을 넣으세요:
-
+```bash
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 SEGMIND_API_KEY=SG-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
 👉 API 키는 OpenAI와 Segmind에서 발급받을 수 있습니다.
 
 ---
